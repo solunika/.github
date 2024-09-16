@@ -1,7 +1,5 @@
 ## Hola! 👋
 
-#### Views counter
-![Visitor Count](https://profile-counter.glitch.me/{solunika}/count.svg)
 # Solúnika
 
 Somos una empresa de desarrollo de software especializada en soluciones de seguridad y alta disponibilidad. 
@@ -18,3 +16,6 @@ Si tienes interés en saber más sobre nuestro trabajo o colaborar con nosotros,
 
 [Solúnika](https://www.solunika.com)
 Innovación en software de seguridad y alta disponibilidad.
+
+#### Views counter
+![Visitor Count](https://profile-counter.glitch.me/{solunika}/count.svg)
