@@ -1,5 +1,3 @@
-## Hola! 👋
-
 # Solúnika
 
 Somos una empresa de desarrollo de software especializada en soluciones de seguridad y alta disponibilidad. 
